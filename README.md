@@ -19,4 +19,3 @@
 | ----------------------------------------------------------------------- | ----------------------------------------- |
 | [LiteLoader](https://github.com/LiteLDev/LiteLoader)                    | LGPLv3                                    |
 | [PeEditor](https://github.com/LiteLDev/PeEditor)                        | AGPLv3                                    |
-| [MoonlyClient](https://github.com/MoonlyClient/MoonlyClient)            | Apache-2.0 license                        |
