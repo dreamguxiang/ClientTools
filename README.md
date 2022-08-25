@@ -10,7 +10,7 @@
 
 注：PeEditor.exe可用于修改任意EXE导入表，导入函数：`imp_func`
 ```
-.\LLPeEditor.exe --exe xxxx.exe --dll xxxx.dll
+.\PeEditor.exe --exe xxxx.exe --dll xxxx.dll
 ```
 
 ## 📍 许可证
